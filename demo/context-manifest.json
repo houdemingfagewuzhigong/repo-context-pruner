@@ -1,0 +1,67 @@
+[
+  {
+    "path": "README.md",
+    "score": 48,
+    "bytes": 1720,
+    "reason": [
+      "project identity",
+      "compact"
+    ],
+    "redactions": 0,
+    "included": true
+  },
+  {
+    "path": "tests/test_repo_context_pruner.py",
+    "score": 40,
+    "bytes": 1061,
+    "reason": [
+      "source code",
+      "tests",
+      "compact"
+    ],
+    "redactions": 0,
+    "included": true
+  },
+  {
+    "path": "repo_context_pruner.py",
+    "score": 28,
+    "bytes": 6804,
+    "reason": [
+      "source code",
+      "compact"
+    ],
+    "redactions": 0,
+    "included": true
+  },
+  {
+    "path": ".github/workflows/ci.yml",
+    "score": 18,
+    "bytes": 356,
+    "reason": [
+      "automation",
+      "compact"
+    ],
+    "redactions": 0,
+    "included": true
+  },
+  {
+    "path": ".gitignore",
+    "score": 8,
+    "bytes": 147,
+    "reason": [
+      "compact"
+    ],
+    "redactions": 0,
+    "included": true
+  },
+  {
+    "path": "LICENSE",
+    "score": 8,
+    "bytes": 1079,
+    "reason": [
+      "compact"
+    ],
+    "redactions": 0,
+    "included": true
+  }
+]
